@@ -1,0 +1,68 @@
+/* 
+    Document   : Style
+    Created on : Apr 22, 2014, 8:52:03 PM
+    Author     : Nikhil
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+h1
+{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: crimson;
+}
+
+body
+{
+    background-image: url("2.jpg");
+    background-repeat: repeat;
+    
+}
+.links
+{
+    font-family: fantasy;
+    font-size: larger;
+    font-weight: normal;
+    color: fuchsia;
+}
+
+.buyer
+{
+    font-family: cursive;
+    font-size: medium;
+    color: darkorange;
+}
+
+.seller
+{
+    font-family: cursive;
+    font-size: medium;
+    color : green;
+}
+
+.bottom
+{
+    font-family: cursive;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+        
+}
+
+
+.banner
+{
+    color: tomato;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+
+
